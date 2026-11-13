@@ -36,7 +36,7 @@ export const PROVIDERS: ProviderMeta[] = [
     label: "Google",
     apiKeyName: "google_api_key",
     modelName: "google_model_name",
-    defaultModelName: "gemini-2.5-flash",
+    defaultModelName: "gemini-3.8-flash",
     maxConcurrencyName: "google_max_concurrency",
     apiDoc: "https://aistudio.google.com/apikey",
     apiDocLabel: "Google AI Studio",
